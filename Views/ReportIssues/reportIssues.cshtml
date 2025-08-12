@@ -1,0 +1,33 @@
+@model MunicipalityServiceApp.Models.ReportIssueModel
+@{
+    ViewData["Title"] = "Report Issues Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Report Issues</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div class="reportQuestions">
+        <label asp-for="Location" class="control-label">Location:</label>
+        <input asp-for="Location" type="text" class="form-control" id="txtLocation" name="Location"
+            placeholder="Enter your location" />
+
+        <label asp-for="Category" class="control-label">Category:</label>
+        <select asp-for="Category" class="form-control" id="ddlCategory" name="Category">
+            <option value="">Select Category</option>
+            <option value="Sanitation">Sanitation</option>
+            <option value="Roads">Roads</option>
+            <option value="Utilities">Utilities</option>
+        </select>
+
+        <label asp-for="Description" class="control-label">Description:</label>
+        <textarea asp-for="Description" class="form-control" id="txtDescription" name="Description"
+            placeholder="Describe the issue"></textarea>
+
+        <label asp-for="mediaAttachment" class="control-label">Upload document or image:</label>
+        <input type="file" class="form-control-file" id="mediaAttachment" name="mediaAttachment"
+            accept=".jpg,.jpeg,.png,.pdf" />
+
+        <button type="submit" class="btn btn-primary mt-3">Submit</button>
+    </div>

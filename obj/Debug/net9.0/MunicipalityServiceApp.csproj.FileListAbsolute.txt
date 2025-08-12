@@ -95,3 +95,4 @@ C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\refi
 C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\MunicipalityServiceApp.pdb
 C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\MunicipalityServiceApp.genruntimeconfig.cache
 C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\ref\MunicipalityServiceApp.dll
+c:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\MunicipalityServiceApp.sourcelink.json

@@ -23,9 +23,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult reportIssues()
+    public IActionResult ReportIssues()
     {
-        return View();
+        return View("~/Views/ReportIssues/reportIssues.cshtml");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

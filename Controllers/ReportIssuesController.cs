@@ -23,7 +23,7 @@ public class ReportIssuesController : Controller
         return View();
     }
 
-    public IActionResult reportIssues()
+    public IActionResult ReportIssues()
     {
         return View();
     }
