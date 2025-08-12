@@ -1,10 +1,21 @@
-namespace MunicipalityServiceApp.Models;
+using System;
+using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Http;
 
-public class ReportIssueModel
+namespace MunicipalityServiceApp.Models
 {
-    public string Location { get; set; }
-    public string Category { get; set; }
-    public string Description { get; set; }
-    public IFormFile mediaAttachment { get; set; }
-    public DateTime ReportedDate { get; set; } = DateTime.Now;
+
+    public class ReportIssueModel
+    {
+        [Required(ErrorMessage = "Location is required")]
+        public string Location { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Category is required")]
+        public string Category { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Description is required")]
+        public string Description { get; set; } = string.Empty;
+        public IFormFile? MediaAttachment { get; set; }
+        public DateTime ReportedDate { get; set; } = DateTime.Now;
+    }
 }
