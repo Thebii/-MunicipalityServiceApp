@@ -5,4 +5,27 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div class="HomePageOptions">
+
+        <button id="btnReportIssues" type="button"
+            class="btn btn-light btn-lg d-flex align-items-center justify-content-start p-3 rounded-4 shadow w-100 mb-3">
+            <img src="~/images/clipboard.png" alt="Report" style="width:60px; height:60px;" class="me-3">
+            <span class="fw-bold text-primary">Report Issues</span>
+        </button>
+
+
+        <button id="btnLocalEventsAndAnnouncements" type="button"
+            class="btn btn-light btn-lg d-flex align-items-center justify-content-start p-3 rounded-4 shadow w-100 mb-3">
+            <img src="~/images/loud-speaker.png" alt="Events" style="width:60px; height:60px;" class="me-3">
+            <span class="fw-bold text-primary">Local Events & Announcements</span>
+        </button>
+
+        <button id="btnServiceRequestStatus" type="button"
+            class="btn btn-light btn-lg d-flex align-items-center justify-content-start p-3 rounded-4 shadow w-100 mb-3">
+            <img src="~/images/customer-care.png" alt="Status" style="width:60px; height:60px;" class="me-3">
+            <span class="fw-bold text-primary">Service Request Status</span>
+        </button>
+    </div>
 </div>
+<script src="~/js/redirect.js"></script>

@@ -25,7 +25,7 @@ public class ServiceRequestStatusController : Controller
 
     public IActionResult ServiceRequestStatus()
     {
-        return View();
+        return View("~/Views/ServiceRequestStatus/serviceRequestStatus.cshtml");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

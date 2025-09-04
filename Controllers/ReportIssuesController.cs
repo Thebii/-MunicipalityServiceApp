@@ -25,7 +25,7 @@ public class ReportIssuesController : Controller
 
     public IActionResult ReportIssues()
     {
-        return View();
+        return View("~/Views/ReportIssues/reportIssues.cshtml");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
