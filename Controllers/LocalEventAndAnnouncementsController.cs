@@ -4,11 +4,11 @@ using MunicipalityServiceApp.Models;
 
 namespace MunicipalityServiceApp.Controllers;
 
-public class HomeController : Controller
+public class LocalEventAndAnnouncementsController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public LocalEventAndAnnouncementsController(ILogger<HomeController> logger)
     {
         _logger = logger;
     }
@@ -23,19 +23,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult ReportIssues()
+    public IActionResult LocalEventAndAnnouncements()
     {
-        return View("~/Views/ReportIssues/reportIssues.cshtml");
-    }
-
-    public IActionResult LocalEventsAndAnnouncements()
-    {
-        return View("~/Views/LocalEventsAndAnnouncements/localEventsAndAnnouncements.cshtml");
-    }
-
-    public IActionResult ServiceRequestStatus()
-    {
-        return View("~/Views/ServiceRequestStatus/serviceRequestStatus.cshtml");
+        return View();
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2uqaHyudc81MwLKZ2d3JomIrqqaFNG2b7vVfeQHhaQM=",
+  "Hash": "UTjKwmPXlv/5POzPkICjWMWOxlMX+CX3xAC1aNAKnco=",
   "Source": "MunicipalityServiceApp",
   "BasePath": "_content/MunicipalityServiceApp",
   "Mode": "Default",
@@ -563,6 +563,27 @@
       "OriginalItemSpec": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+      "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gmkrq8unhs-zckvi7v0l6.gz",
+      "SourceId": "MunicipalityServiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MunicipalityServiceApp",
+      "RelativePath": "js/progressBar#[.{fingerprint=zckvi7v0l6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fb1jlt0bq8",
+      "Integrity": "axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js"
+    },
+    {
       "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gsyj3b1odo-493y06b0oq.gz",
       "SourceId": "MunicipalityServiceApp",
       "SourceType": "Discovered",
@@ -1088,6 +1109,27 @@
       "OriginalItemSpec": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MunicipalityServiceApp.styles.css"
     },
     {
+      "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ubtf0fgh1j-lktzkg948y.gz",
+      "SourceId": "MunicipalityServiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MunicipalityServiceApp",
+      "RelativePath": "css/reportIssues#[.{fingerprint=lktzkg948y}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ekxj8m34n0",
+      "Integrity": "Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css"
+    },
+    {
       "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ucr7cj49td-tdbxkamptv.gz",
       "SourceId": "MunicipalityServiceApp",
       "SourceType": "Discovered",
@@ -1403,6 +1445,27 @@
       "OriginalItemSpec": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MunicipalityServiceApp.bundle.scp.css"
     },
     {
+      "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css",
+      "SourceId": "MunicipalityServiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\",
+      "BasePath": "_content/MunicipalityServiceApp",
+      "RelativePath": "css/reportIssues#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lktzkg948y",
+      "Integrity": "deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\reportIssues.css"
+    },
+    {
       "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\site.css",
       "SourceId": "MunicipalityServiceApp",
       "SourceType": "Discovered",
@@ -1443,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js",
+      "SourceId": "MunicipalityServiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\",
+      "BasePath": "_content/MunicipalityServiceApp",
+      "RelativePath": "js/progressBar#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zckvi7v0l6",
+      "Integrity": "LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\progressBar.js"
     },
     {
       "Identity": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\site.js",
@@ -2728,6 +2812,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/reportIssues.css",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ubtf0fgh1j-lktzkg948y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006024096386"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA="
+        }
+      ]
+    },
+    {
+      "Route": "css/reportIssues.css",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA="
+        }
+      ]
+    },
+    {
+      "Route": "css/reportIssues.css.gz",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ubtf0fgh1j-lktzkg948y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0="
+        }
+      ]
+    },
+    {
+      "Route": "css/reportIssues.lktzkg948y.css",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ubtf0fgh1j-lktzkg948y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006024096386"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lktzkg948y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reportIssues.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA="
+        }
+      ]
+    },
+    {
+      "Route": "css/reportIssues.lktzkg948y.css",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lktzkg948y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reportIssues.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-deTUFKTvoecm88xzFLcmQ/poR/JcYX+BgkNG37IAgTA="
+        }
+      ]
+    },
+    {
+      "Route": "css/reportIssues.lktzkg948y.css.gz",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\ubtf0fgh1j-lktzkg948y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Sep 2025 18:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lktzkg948y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reportIssues.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Un/9i2RF3CGbi9YUqjveFmzuGh5WZBpcGScRp9Y96+0="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\1lro9jlrtm-b9sayid5wm.gz",
       "Selectors": [
@@ -3320,6 +3702,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.js",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gmkrq8unhs-zckvi7v0l6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002415458937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.js",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.js.gz",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gmkrq8unhs-zckvi7v0l6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.zckvi7v0l6.js",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gmkrq8unhs-zckvi7v0l6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002415458937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zckvi7v0l6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/progressBar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.zckvi7v0l6.js",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zckvi7v0l6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/progressBar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LckBKLZYHIeha5exOnoUq9mAOeYc+YXthEvuQbEq/Hg="
+        }
+      ]
+    },
+    {
+      "Route": "js/progressBar.zckvi7v0l6.js.gz",
+      "AssetFile": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\obj\\Debug\\net9.0\\compressed\\gmkrq8unhs-zckvi7v0l6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Aug 2025 15:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zckvi7v0l6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/progressBar.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-axaTw2SW0hdUVBctL8BxKahtNDPtf2w7LSoZiVZ24nM="
         }
       ]
     },

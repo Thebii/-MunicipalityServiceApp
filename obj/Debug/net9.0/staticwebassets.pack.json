@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\MunicipalityServiceApp.7k3npreh4n.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\reportIssues.css",
+      "PackagePath": "staticwebassets\\css\\reportIssues.css"
+    },
+    {
       "Id": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\progressBar.js",
+      "PackagePath": "staticwebassets\\js\\progressBar.js"
     },
     {
       "Id": "c:\\Users\\USER\\Documents\\C# projects\\MunicipalityServiceApp\\wwwroot\\js\\site.js",

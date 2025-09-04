@@ -1,0 +1,21 @@
+*{
+   
+}
+
+.txtLocation {
+    width: 350px;
+    height: 30px;
+    position: relative;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 14px; 
+}
+
+.txtDescription{
+    width: 400px;
+    height: 150px;
+    position: relative;
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 14px; 
+}

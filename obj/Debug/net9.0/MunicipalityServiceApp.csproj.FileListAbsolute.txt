@@ -96,3 +96,5 @@ C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\Muni
 C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\MunicipalityServiceApp.genruntimeconfig.cache
 C:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\ref\MunicipalityServiceApp.dll
 c:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\MunicipalityServiceApp.sourcelink.json
+c:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\compressed\gmkrq8unhs-zckvi7v0l6.gz
+c:\Users\USER\Documents\C# projects\MunicipalityServiceApp\obj\Debug\net9.0\compressed\ubtf0fgh1j-lktzkg948y.gz
